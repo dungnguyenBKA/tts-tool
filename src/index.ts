@@ -89,7 +89,8 @@ function toName(id: number, type: L10n) {
 }
 
 type Config = {
-  id: number,
+  index: number,
+  id: string,
   english: string,
   vietnamese: string,
   japanese: string
@@ -105,9 +106,9 @@ async function main() {
       const currentItem = errorList[i]
       try {
         await Promise.all([
-          getAudio(currentItem.id, currentItem.english, L10n.EN),
-          getAudio(currentItem.id, currentItem.vietnamese, L10n.VI),
-          getAudio(currentItem.id, currentItem.japanese, L10n.JP),
+          getAudio(currentItem.index, currentItem.english, L10n.EN),
+          getAudio(currentItem.index, currentItem.vietnamese, L10n.VI),
+          getAudio(currentItem.index, currentItem.japanese, L10n.JP),
         ])
         console.log("Item done:", currentItem.english)
       } catch (e) {

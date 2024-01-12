@@ -1,14 +1,1115 @@
 [
   {
-    "id": 1,
-    "english": "Polish car",
-    "vietnamese": "Xe cảnh sát",
-    "japanese": "パトカー"
+    "index": 0,
+    "id": "BUS",
+    "english": "Bus",
+    "vietnamese": "Xe buýt",
+    "japanese": "バス"
   },
   {
-    "id": 2,
-    "english": "Card game",
-    "vietnamese": "Trò chơi thẻ bài",
-    "japanese": "カート"
+    "index": 1,
+    "id": "YELLOW_COMPACT_CAR",
+    "english": "Yellow Compact Car",
+    "vietnamese": "Xe nhỏ gọn màu vàng",
+    "japanese": "黄色のコンパクトカー"
+  },
+  {
+    "index": 2,
+    "id": "BLACK_COMPACT_CAR",
+    "english": "Black Compact Car",
+    "vietnamese": "Xe nhỏ gọn màu đen",
+    "japanese": "黒いコンパクトカー"
+  },
+  {
+    "index": 3,
+    "id": "HELICOPTER",
+    "english": "Helicopter",
+    "vietnamese": "Trực thăng",
+    "japanese": "ヘリコプター"
+  },
+  {
+    "index": 4,
+    "id": "POLICE_HELICOPTER",
+    "english": "Police Helicopter",
+    "vietnamese": "Trực thăng cảnh sát",
+    "japanese": "警察ヘリコプター"
+  },
+  {
+    "index": 5,
+    "id": "HYBRID_CAR",
+    "english": "Hybrid Car",
+    "vietnamese": "Xe điện",
+    "japanese": "ハイブリッドカー"
+  },
+  {
+    "index": 6,
+    "id": "PICK-UP_CAR",
+    "english": "Pick-Up Car",
+    "vietnamese": "Xe bán tải",
+    "japanese": "送迎車"
+  },
+  {
+    "index": 7,
+    "id": "BROWN_SEDAN",
+    "english": "Brown Sedan",
+    "vietnamese": "Xe Sedan màu nâu",
+    "japanese": "ブラウンセダン"
+  },
+  {
+    "index": 8,
+    "id": "WHITE_SEDAN",
+    "english": "White Sedan",
+    "vietnamese": "Xe Sedan màu trắng",
+    "japanese": "白いセダン"
+  },
+  {
+    "index": 9,
+    "id": "SUV",
+    "english": "SUV",
+    "vietnamese": "SUV",
+    "japanese": "SUV"
+  },
+  {
+    "index": 10,
+    "id": "TAXI",
+    "english": "Taxi",
+    "vietnamese": "Xe tắc xi",
+    "japanese": "タクシー"
+  },
+  {
+    "index": 11,
+    "id": "TRUCK",
+    "english": "Truck",
+    "vietnamese": "Xe tải",
+    "japanese": "トラック"
+  },
+  {
+    "index": 12,
+    "id": "VAN",
+    "english": "Van",
+    "vietnamese": "Xe van",
+    "japanese": "バン"
+  },
+  {
+    "index": 13,
+    "id": "APPLE",
+    "english": "Apple",
+    "vietnamese": "Quả táo",
+    "japanese": "りんご"
+  },
+  {
+    "index": 14,
+    "id": "HALF_AN_APPLE",
+    "english": "Half An Apple",
+    "vietnamese": "Nửa quả táo",
+    "japanese": "リンゴ半分"
+  },
+  {
+    "index": 15,
+    "id": "APRICOT",
+    "english": "Apricot",
+    "vietnamese": "Quả mơ",
+    "japanese": "アプリコット"
+  },
+  {
+    "index": 16,
+    "id": "HALF_AN_APRICOT",
+    "english": "Half An Apricot",
+    "vietnamese": "Nửa quả mơ",
+    "japanese": "アプリコット半分"
+  },
+  {
+    "index": 17,
+    "id": "BANANA",
+    "english": "Banana",
+    "vietnamese": "Chuối",
+    "japanese": "バナナ"
+  },
+  {
+    "index": 18,
+    "id": "BUNCH_OF_BANANA",
+    "english": "Bunch Of Banana",
+    "vietnamese": "Nải chuối",
+    "japanese": "バナナの束"
+  },
+  {
+    "index": 19,
+    "id": "CANTALOUPE",
+    "english": "Cantaloupe",
+    "vietnamese": "dưa đỏ",
+    "japanese": "マスクメロン"
+  },
+  {
+    "index": 20,
+    "id": "CANTELOPE_SLICE",
+    "english": "Cantelope Slice",
+    "vietnamese": "Lát dưa đỏ",
+    "japanese": "カンテロープのスライス"
+  },
+  {
+    "index": 21,
+    "id": "CHERRY",
+    "english": "Cherry",
+    "vietnamese": "quả anh đào",
+    "japanese": "チェリー"
+  },
+  {
+    "index": 22,
+    "id": "COCONUT",
+    "english": "Coconut",
+    "vietnamese": "Dừa",
+    "japanese": "ココナッツ"
+  },
+  {
+    "index": 23,
+    "id": "HALF_A_COCONUT",
+    "english": "Half A Coconut",
+    "vietnamese": "Nửa quả dừa",
+    "japanese": "ココナッツ半分"
+  },
+  {
+    "index": 24,
+    "id": "GREEN_COCONUT",
+    "english": "Green Coconut",
+    "vietnamese": "Dừa xanh",
+    "japanese": "グリーンココナッツ"
+  },
+  {
+    "index": 25,
+    "id": "HALF_A_GREEN_COCONUT",
+    "english": "Half A Green Coconut",
+    "vietnamese": "Nửa Quả Dừa Xanh",
+    "japanese": "グリーンココナッツ半分"
+  },
+  {
+    "index": 26,
+    "id": "DRAGONFRUIT",
+    "english": "Dragonfruit",
+    "vietnamese": "Thanh long",
+    "japanese": "ドラゴンフルーツ"
+  },
+  {
+    "index": 27,
+    "id": "HALF_A_DRAGONFRUIT",
+    "english": "Half A Dragonfruit",
+    "vietnamese": "Nửa Quả thanh long",
+    "japanese": "ドラゴンフルーツ半分"
+  },
+  {
+    "index": 28,
+    "id": "DURIAN",
+    "english": "Durian",
+    "vietnamese": "Quả sầu riêng",
+    "japanese": "ドリアン"
+  },
+  {
+    "index": 29,
+    "id": "HALF_A_DURIAN",
+    "english": "Half A Durian",
+    "vietnamese": "Nửa Quả Sầu Riêng",
+    "japanese": "ドリアン半分"
+  },
+  {
+    "index": 30,
+    "id": "FIG",
+    "english": "Fig",
+    "vietnamese": "Quả sung",
+    "japanese": "イチジク"
+  },
+  {
+    "index": 31,
+    "id": "HALF_A_FIG",
+    "english": "Half A Fig",
+    "vietnamese": "Nửa Quả sung",
+    "japanese": "イチジクの半分"
+  },
+  {
+    "index": 32,
+    "id": "GOOSEBERRY",
+    "english": "Gooseberry",
+    "vietnamese": "Quả lý gai",
+    "japanese": "グーズベリー"
+  },
+  {
+    "index": 33,
+    "id": "GRAPEFRUIT",
+    "english": "Grapefruit",
+    "vietnamese": "Bưởi",
+    "japanese": "グレープフルーツ"
+  },
+  {
+    "index": 34,
+    "id": "HALF_A_GRAPEFRUIT",
+    "english": "Half A Grapefruit",
+    "vietnamese": "Nửa quả bưởi",
+    "japanese": "グレープフルーツ半分"
+  },
+  {
+    "index": 35,
+    "id": "GRAPE",
+    "english": "Grape",
+    "vietnamese": "Quả nho",
+    "japanese": "葡萄"
+  },
+  {
+    "index": 36,
+    "id": "GREEN_GRAPE",
+    "english": "Green Grape",
+    "vietnamese": "nho xanh",
+    "japanese": "グリーングレープ"
+  },
+  {
+    "index": 37,
+    "id": "GUAVA",
+    "english": "Guava",
+    "vietnamese": "Trái ổi",
+    "japanese": "グアバ"
+  },
+  {
+    "index": 38,
+    "id": "HALF_A_GUAVA",
+    "english": "Half A Guava",
+    "vietnamese": "Nửa quả ổi",
+    "japanese": "グアバ半分"
+  },
+  {
+    "index": 39,
+    "id": "HONEYDEW",
+    "english": "Honeydew",
+    "vietnamese": "Dưa Bở",
+    "japanese": "甘露"
+  },
+  {
+    "index": 40,
+    "id": "HONEYDEW_SLICE",
+    "english": "Honeydew Slice",
+    "vietnamese": "Lát Dưa bở",
+    "japanese": "ハニーデュースライス"
+  },
+  {
+    "index": 41,
+    "id": "JACKFRUIT",
+    "english": "Jackfruit",
+    "vietnamese": "Mít",
+    "japanese": "パラミツ"
+  },
+  {
+    "index": 42,
+    "id": "HALF_A_JACKFRUIT",
+    "english": "Half A Jackfruit",
+    "vietnamese": "Nửa quả mít",
+    "japanese": "ジャックフルーツ半分"
+  },
+  {
+    "index": 43,
+    "id": "KIWI",
+    "english": "Kiwi",
+    "vietnamese": "Quả kiwi",
+    "japanese": "キウイ"
+  },
+  {
+    "index": 44,
+    "id": "HALF_A_KIWI",
+    "english": "Half A Kiwi",
+    "vietnamese": "Nửa Quả Kiwi",
+    "japanese": "キウイ半分"
+  },
+  {
+    "index": 45,
+    "id": "LEMON",
+    "english": "Lemon",
+    "vietnamese": "Chanh vàng",
+    "japanese": "レモン"
+  },
+  {
+    "index": 46,
+    "id": "HALF_A_LEMON",
+    "english": "Half A Lemon",
+    "vietnamese": "Nửa quả chanh vàng",
+    "japanese": "レモン半分"
+  },
+  {
+    "index": 47,
+    "id": "LIME",
+    "english": "Lime",
+    "vietnamese": "Chanh xanh",
+    "japanese": "ライム"
+  },
+  {
+    "index": 48,
+    "id": "HALF_A_LIME",
+    "english": "Half A Lime",
+    "vietnamese": "Nửa quả chanh xanh",
+    "japanese": "ライム半分"
+  },
+  {
+    "index": 49,
+    "id": "LYCHEE",
+    "english": "Lychee",
+    "vietnamese": "vải thiều",
+    "japanese": "ライチ"
+  },
+  {
+    "index": 50,
+    "id": "PEELED_LYCHEE",
+    "english": "Peeled Lychee",
+    "vietnamese": "Vải thiều bóc vỏ",
+    "japanese": "皮をむいたライチ"
+  },
+  {
+    "index": 51,
+    "id": "MANGO",
+    "english": "Mango",
+    "vietnamese": "Quả xoài",
+    "japanese": "マンゴー"
+  },
+  {
+    "index": 52,
+    "id": "MANGO_SLICE",
+    "english": "Mango Slice",
+    "vietnamese": "lát xoài",
+    "japanese": "マンゴースライス"
+  },
+  {
+    "index": 53,
+    "id": "YELLOW_MELON",
+    "english": "Yellow Melon",
+    "vietnamese": "dưa vàng",
+    "japanese": "イエローメロン"
+  },
+  {
+    "index": 54,
+    "id": "YELLOW_MELON_SLICE",
+    "english": "Yellow Melon Slice",
+    "vietnamese": "Miếng dưa vàng",
+    "japanese": "黄色いメロンのスライス"
+  },
+  {
+    "index": 55,
+    "id": "ORANGE",
+    "english": "Orange",
+    "vietnamese": "Quả cam",
+    "japanese": "オレンジ"
+  },
+  {
+    "index": 56,
+    "id": "A_QUARTER_OF_ORANGE",
+    "english": "A Quarter Of Orange",
+    "vietnamese": "Một phần tư quả cam",
+    "japanese": "オレンジ 4 分の 1"
+  },
+  {
+    "index": 57,
+    "id": "PAPAYA",
+    "english": "Papaya",
+    "vietnamese": "Đu đủ",
+    "japanese": "パパイヤ"
+  },
+  {
+    "index": 58,
+    "id": "HALF_A_PAPAYA",
+    "english": "Half A Papaya",
+    "vietnamese": "Nửa quả đu đủ",
+    "japanese": "パパイヤ半分"
+  },
+  {
+    "index": 59,
+    "id": "PASSIONFRUIT",
+    "english": "Passionfruit",
+    "vietnamese": "chanh dây",
+    "japanese": "パッションフルーツ"
+  },
+  {
+    "index": 60,
+    "id": "HALF_A_PASSIONFRUIT",
+    "english": "Half A Passionfruit",
+    "vietnamese": "Nửa quả chanh dây",
+    "japanese": "パッションフルーツ半分"
+  },
+  {
+    "index": 61,
+    "id": "PEACH",
+    "english": "Peach",
+    "vietnamese": "Quả đào",
+    "japanese": "桃"
+  },
+  {
+    "index": 62,
+    "id": "HALF_A_PEACH",
+    "english": "Half A Peach",
+    "vietnamese": "Nửa quả đào",
+    "japanese": "桃半分"
+  },
+  {
+    "index": 63,
+    "id": "PEAR",
+    "english": "Pear",
+    "vietnamese": "Quả lê",
+    "japanese": "梨"
+  },
+  {
+    "index": 64,
+    "id": "HALF_A_PEAR",
+    "english": "Half A Pear",
+    "vietnamese": "Nửa quả lê",
+    "japanese": "梨半分"
+  },
+  {
+    "index": 65,
+    "id": "PERSIMMON",
+    "english": "Persimmon",
+    "vietnamese": "Quả hồng",
+    "japanese": "柿"
+  },
+  {
+    "index": 66,
+    "id": "HALF_A_PERSIMMON",
+    "english": "Half A Persimmon",
+    "vietnamese": "Nửa Quả Hồng",
+    "japanese": "柿半分"
+  },
+  {
+    "index": 67,
+    "id": "PINEAPPLE",
+    "english": "Pineapple",
+    "vietnamese": "Quả dứa",
+    "japanese": "パイナップル"
+  },
+  {
+    "index": 68,
+    "id": "PINEAPPLE_SLICE",
+    "english": "Pineapple Slice",
+    "vietnamese": "Miếng dứa",
+    "japanese": "パイナップルのスライス"
+  },
+  {
+    "index": 69,
+    "id": "PLUM",
+    "english": "Plum",
+    "vietnamese": "Mận",
+    "japanese": "梅"
+  },
+  {
+    "index": 70,
+    "id": "HALF_A_PLUM",
+    "english": "Half A Plum",
+    "vietnamese": "Nửa quả mận",
+    "japanese": "プラム半分"
+  },
+  {
+    "index": 71,
+    "id": "POMEGRANATE",
+    "english": "Pomegranate",
+    "vietnamese": "Quả lựu",
+    "japanese": "ザクロ"
+  },
+  {
+    "index": 72,
+    "id": "HALF_A_POMEGRANATE",
+    "english": "Half A Pomegranate",
+    "vietnamese": "Nửa quả lựu",
+    "japanese": "ザクロ半分"
+  },
+  {
+    "index": 73,
+    "id": "POMELO",
+    "english": "Pomelo",
+    "vietnamese": "Bưởi",
+    "japanese": "ポメロ"
+  },
+  {
+    "index": 74,
+    "id": "HALF_A_POMELO",
+    "english": "Half A Pomelo",
+    "vietnamese": "Nửa quả bưởi",
+    "japanese": "半分のザボン"
+  },
+  {
+    "index": 75,
+    "id": "PRICKLY_PEAR",
+    "english": "Prickly Pear",
+    "vietnamese": "lê gai",
+    "japanese": "ウチワサボテン"
+  },
+  {
+    "index": 76,
+    "id": "HALF_A_PRICKLY_PEAR",
+    "english": "Half A Prickly Pear",
+    "vietnamese": "Nửa quả lê gai",
+    "japanese": "ウチワサボテン半分"
+  },
+  {
+    "index": 77,
+    "id": "SOURSOP",
+    "english": "Soursop",
+    "vietnamese": "mãng cầu",
+    "japanese": "サワーソップ"
+  },
+  {
+    "index": 78,
+    "id": "HALF_A_SOURSOP",
+    "english": "Half A Soursop",
+    "vietnamese": "Nửa quả mãng cầu",
+    "japanese": "サワーソップ半分"
+  },
+  {
+    "index": 79,
+    "id": "STARFRUIT",
+    "english": "Starfruit",
+    "vietnamese": "Quả khế",
+    "japanese": "スターフルーツ"
+  },
+  {
+    "index": 80,
+    "id": "STARFRUIT_SLICE",
+    "english": "Starfruit Slice",
+    "vietnamese": "Lát khế",
+    "japanese": "スターフルーツのスライス"
+  },
+  {
+    "index": 81,
+    "id": "STRAWBERRY",
+    "english": "Strawberry",
+    "vietnamese": "Quả dâu tây",
+    "japanese": "いちご"
+  },
+  {
+    "index": 82,
+    "id": "HALF_A_STRAWBERRY",
+    "english": "Half A Strawberry",
+    "vietnamese": "Nửa quả dâu tây",
+    "japanese": "イチゴ半分"
+  },
+  {
+    "index": 83,
+    "id": "WATERMELON",
+    "english": "Watermelon",
+    "vietnamese": "Dưa hấu",
+    "japanese": "スイカ"
+  },
+  {
+    "index": 84,
+    "id": "A_QUARTER_OF_RED_WATERMELON",
+    "english": "A Quarter Of Red Watermelon",
+    "vietnamese": "Một phần tư dưa hấu đỏ",
+    "japanese": "赤いスイカ 4 分の 1"
+  },
+  {
+    "index": 85,
+    "id": "RED_WATERMELON_SLICE",
+    "english": "Red Watermelon Slice",
+    "vietnamese": "Miếng dưa hấu đỏ",
+    "japanese": "赤いスイカのスライス"
+  },
+  {
+    "index": 86,
+    "id": "A_QUARTER_OF_YELLOW_WATERMELON",
+    "english": "A Quarter Of Yellow Watermelon",
+    "vietnamese": "Một Phần Tư Dưa Hấu Vàng",
+    "japanese": "黄色いスイカ 4 分の 1"
+  },
+  {
+    "index": 87,
+    "id": "YELLOW_WATERMELON_SLICE",
+    "english": "Yellow Watermelon Slice",
+    "vietnamese": "Miếng dưa hấu vàng",
+    "japanese": "黄色のスイカのスライス"
+  },
+  {
+    "index": 88,
+    "id": "ANCIENT_BISON",
+    "english": "Ancient Bison",
+    "vietnamese": "Bò rừng cổ đại",
+    "japanese": "古代バイソン"
+  },
+  {
+    "index": 89,
+    "id": "ANTEATER",
+    "english": "Anteater",
+    "vietnamese": "Thú ăn kiến",
+    "japanese": "アリクイ"
+  },
+  {
+    "index": 90,
+    "id": "BEAR",
+    "english": "Bear",
+    "vietnamese": "Con gấu",
+    "japanese": "クマ"
+  },
+  {
+    "index": 91,
+    "id": "BEAVER",
+    "english": "Beaver",
+    "vietnamese": "hải ly",
+    "japanese": "ビーバー"
+  },
+  {
+    "index": 92,
+    "id": "BOAR",
+    "english": "Boar",
+    "vietnamese": "lợn rừng",
+    "japanese": "イノシシ"
+  },
+  {
+    "index": 93,
+    "id": "BUFFALO",
+    "english": "Buffalo",
+    "vietnamese": "Trâu",
+    "japanese": "バッファロー"
+  },
+  {
+    "index": 94,
+    "id": "CAT",
+    "english": "Cat",
+    "vietnamese": "Con mèo",
+    "japanese": "猫"
+  },
+  {
+    "index": 95,
+    "id": "CHICK",
+    "english": "Chick",
+    "vietnamese": "gà con",
+    "japanese": "ひよこ"
+  },
+  {
+    "index": 96,
+    "id": "CHIMPANZEE",
+    "english": "Chimpanzee",
+    "vietnamese": "tinh tinh",
+    "japanese": "チンパンジー"
+  },
+  {
+    "index": 97,
+    "id": "COLUMBIAN_MAMMOTH",
+    "english": "Columbian Mammoth",
+    "vietnamese": "Voi ma mút Colombia",
+    "japanese": "コロンビアマンモス"
+  },
+  {
+    "index": 98,
+    "id": "COW",
+    "english": "Cow",
+    "vietnamese": "bò",
+    "japanese": "牛"
+  },
+  {
+    "index": 99,
+    "id": "DAIRY_COW",
+    "english": "Dairy Cow",
+    "vietnamese": "Bò sữa",
+    "japanese": "乳牛"
+  },
+  {
+    "index": 100,
+    "id": "COYOTE",
+    "english": "Coyote",
+    "vietnamese": "chó sói",
+    "japanese": "コヨーテ"
+  },
+  {
+    "index": 101,
+    "id": "CROCODILE",
+    "english": "Crocodile",
+    "vietnamese": "Cá sấu",
+    "japanese": "クロコダイル"
+  },
+  {
+    "index": 102,
+    "id": "DEER",
+    "english": "Deer",
+    "vietnamese": "Con nai",
+    "japanese": "鹿"
+  },
+  {
+    "index": 103,
+    "id": "DIRE_WOLF",
+    "english": "Dire Wolf",
+    "vietnamese": "Sói thảm khốc",
+    "japanese": "ダイアウルフ"
+  },
+  {
+    "index": 104,
+    "id": "CHIHUAHUA",
+    "english": "Chihuahua",
+    "vietnamese": "Chihuahua",
+    "japanese": "チワワ"
+  },
+  {
+    "index": 105,
+    "id": "GOLDEN_RETRIEVER",
+    "english": "Golden Retriever",
+    "vietnamese": "Chó tha mồi vàng",
+    "japanese": "ゴールデンレトリバー"
+  },
+  {
+    "index": 106,
+    "id": "GREAT_DANE",
+    "english": "Great Dane",
+    "vietnamese": "Đại Đan Mạch",
+    "japanese": "グレートデーン"
+  },
+  {
+    "index": 107,
+    "id": "DOLPHIN",
+    "english": "Dolphin",
+    "vietnamese": "Cá heo",
+    "japanese": "イルカ"
+  },
+  {
+    "index": 108,
+    "id": "DOVE",
+    "english": "Dove",
+    "vietnamese": "chim bồ câu",
+    "japanese": "鳩"
+  },
+  {
+    "index": 109,
+    "id": "DWARF_PRONGHORN",
+    "english": "Dwarf Pronghorn",
+    "vietnamese": "Linh dương lùn",
+    "japanese": "ドワーフ・プロングホーン"
+  },
+  {
+    "index": 110,
+    "id": "EAGLE",
+    "english": "Eagle",
+    "vietnamese": "chim ưng",
+    "japanese": "鷲"
+  },
+  {
+    "index": 111,
+    "id": "ELEPHANT",
+    "english": "Elephant",
+    "vietnamese": "Con voi",
+    "japanese": "象"
+  },
+  {
+    "index": 112,
+    "id": "FOX",
+    "english": "Fox",
+    "vietnamese": "cáo",
+    "japanese": "キツネ"
+  },
+  {
+    "index": 113,
+    "id": "GIRAFFE",
+    "english": "Giraffe",
+    "vietnamese": "Hươu cao cổ",
+    "japanese": "キリン"
+  },
+  {
+    "index": 114,
+    "id": "GOAT",
+    "english": "Goat",
+    "vietnamese": "Con dê",
+    "japanese": "ヤギ"
+  },
+  {
+    "index": 115,
+    "id": "GOOSE",
+    "english": "Goose",
+    "vietnamese": "Ngỗng",
+    "japanese": "ガチョウ"
+  },
+  {
+    "index": 116,
+    "id": "GORILLA",
+    "english": "Gorilla",
+    "vietnamese": "Con khỉ đột",
+    "japanese": "ゴリラ"
+  },
+  {
+    "index": 117,
+    "id": "HARLANS_GROUND_SLOTH",
+    "english": "Harlans Ground Sloth",
+    "vietnamese": "Con lười đất Harlans",
+    "japanese": "ハーランズ グランド ナマケモノ"
+  },
+  {
+    "index": 118,
+    "id": "HEN",
+    "english": "Hen",
+    "vietnamese": "gà mái",
+    "japanese": "編"
+  },
+  {
+    "index": 119,
+    "id": "HIPPO",
+    "english": "Hippo",
+    "vietnamese": "Con hà mã",
+    "japanese": "カバ"
+  },
+  {
+    "index": 120,
+    "id": "HORSE",
+    "english": "Horse",
+    "vietnamese": "Ngựa",
+    "japanese": "馬"
+  },
+  {
+    "index": 121,
+    "id": "JELLYFISH",
+    "english": "Jellyfish",
+    "vietnamese": "Con sứa",
+    "japanese": "クラゲ"
+  },
+  {
+    "index": 122,
+    "id": "FEMALE_LION",
+    "english": "Female Lion",
+    "vietnamese": "Sư tử cái",
+    "japanese": "雌ライオン"
+  },
+  {
+    "index": 123,
+    "id": "MALE_LION",
+    "english": "Male Lion",
+    "vietnamese": "Sư tử đực",
+    "japanese": "雄ライオン"
+  },
+  {
+    "index": 124,
+    "id": "MOUNTAIN_PUMA",
+    "english": "Mountain Puma",
+    "vietnamese": "Puma núi",
+    "japanese": "マウンテンピューマ"
+  },
+  {
+    "index": 125,
+    "id": "OCTOPUS",
+    "english": "Octopus",
+    "vietnamese": "Bạch tuộc",
+    "japanese": "タコ"
+  },
+  {
+    "index": 126,
+    "id": "ORCA",
+    "english": "Orca",
+    "vietnamese": "cá kình",
+    "japanese": "シャチ"
+  },
+  {
+    "index": 127,
+    "id": "OSTRICH",
+    "english": "Ostrich",
+    "vietnamese": "đà điểu",
+    "japanese": "ダチョウ"
+  },
+  {
+    "index": 128,
+    "id": "PANDA",
+    "english": "Panda",
+    "vietnamese": "gấu trúc",
+    "japanese": "パンダ"
+  },
+  {
+    "index": 129,
+    "id": "PARROT",
+    "english": "Parrot",
+    "vietnamese": "Con vẹt",
+    "japanese": "オウム"
+  },
+  {
+    "index": 130,
+    "id": "PENGUIN",
+    "english": "Penguin",
+    "vietnamese": "chim cánh cụt",
+    "japanese": "ペンギン"
+  },
+  {
+    "index": 131,
+    "id": "PIG",
+    "english": "Pig",
+    "vietnamese": "Con lợn",
+    "japanese": "豚"
+  },
+  {
+    "index": 132,
+    "id": "POLAR_BEAR",
+    "english": "Polar Bear",
+    "vietnamese": "Gấu Bắc cực",
+    "japanese": "シロクマ"
+  },
+  {
+    "index": 133,
+    "id": "RABBIT",
+    "english": "Rabbit",
+    "vietnamese": "Con thỏ",
+    "japanese": "うさぎ"
+  },
+  {
+    "index": 134,
+    "id": "RACOON",
+    "english": "Racoon",
+    "vietnamese": "Racoon",
+    "japanese": "アライグマ"
+  },
+  {
+    "index": 135,
+    "id": "REINDEER",
+    "english": "Reindeer",
+    "vietnamese": "tuần lộc",
+    "japanese": "トナカイ"
+  },
+  {
+    "index": 136,
+    "id": "RHINO",
+    "english": "Rhino",
+    "vietnamese": "Tê giác",
+    "japanese": "サイ"
+  },
+  {
+    "index": 137,
+    "id": "ROASTER",
+    "english": "Roaster",
+    "vietnamese": "Máy rang",
+    "japanese": "ロースター"
+  },
+  {
+    "index": 138,
+    "id": "SABERTOOTH",
+    "english": "Sabertooth",
+    "vietnamese": "Sabertooth",
+    "japanese": "セイバートゥース"
+  },
+  {
+    "index": 139,
+    "id": "SEAGUL",
+    "english": "Seagul",
+    "vietnamese": "Hải âu",
+    "japanese": "カモメ"
+  },
+  {
+    "index": 140,
+    "id": "SEAL",
+    "english": "Seal",
+    "vietnamese": "Hải cẩu",
+    "japanese": "シール"
+  },
+  {
+    "index": 141,
+    "id": "SHARK",
+    "english": "Shark",
+    "vietnamese": "Cá mập",
+    "japanese": "サメ"
+  },
+  {
+    "index": 142,
+    "id": "SHEEP",
+    "english": "Sheep",
+    "vietnamese": "Con cừu",
+    "japanese": "羊"
+  },
+  {
+    "index": 143,
+    "id": "SHORT_FACE_BEAR",
+    "english": "Short Face Bear",
+    "vietnamese": "Gấu mặt ngắn",
+    "japanese": "ショートフェイスベア"
+  },
+  {
+    "index": 144,
+    "id": "SNAKE",
+    "english": "Snake",
+    "vietnamese": "Rắn",
+    "japanese": "蛇"
+  },
+  {
+    "index": 145,
+    "id": "SPIDER",
+    "english": "Spider",
+    "vietnamese": "nhện",
+    "japanese": "クモ"
+  },
+  {
+    "index": 146,
+    "id": "SQUID",
+    "english": "Squid",
+    "vietnamese": "Mực ống",
+    "japanese": "イカ"
+  },
+  {
+    "index": 147,
+    "id": "SQUIRREL",
+    "english": "Squirrel",
+    "vietnamese": "Sóc",
+    "japanese": "リス"
+  },
+  {
+    "index": 148,
+    "id": "STARFISH",
+    "english": "Starfish",
+    "vietnamese": "sao biển",
+    "japanese": "ヒトデ"
+  },
+  {
+    "index": 149,
+    "id": "TAPIR",
+    "english": "Tapir",
+    "vietnamese": "heo vòi",
+    "japanese": "バク"
+  },
+  {
+    "index": 150,
+    "id": "TERATORN",
+    "english": "Teratorn",
+    "vietnamese": "Teratorn",
+    "japanese": "テラトーン"
+  },
+  {
+    "index": 151,
+    "id": "TIGER",
+    "english": "Tiger",
+    "vietnamese": "Con hổ",
+    "japanese": "虎"
+  },
+  {
+    "index": 152,
+    "id": "TROUT",
+    "english": "Trout",
+    "vietnamese": "cá hồi",
+    "japanese": "マス"
+  },
+  {
+    "index": 153,
+    "id": "TUCAN",
+    "english": "Tucan",
+    "vietnamese": "Chim Tu Căng",
+    "japanese": "トゥカン語"
+  },
+  {
+    "index": 154,
+    "id": "VULTURE",
+    "english": "Vulture",
+    "vietnamese": "Con kền kền",
+    "japanese": "ハゲワシ"
+  },
+  {
+    "index": 155,
+    "id": "WALRUS",
+    "english": "Walrus",
+    "vietnamese": "hải mã",
+    "japanese": "セイウチ"
+  },
+  {
+    "index": 156,
+    "id": "CAMEL",
+    "english": "Camel",
+    "vietnamese": "Con lạc đà",
+    "japanese": "キャメル"
+  },
+  {
+    "index": 157,
+    "id": "MEADOWLARK",
+    "english": "Meadowlark",
+    "vietnamese": "đồng cỏ",
+    "japanese": "メドウラーク"
+  },
+  {
+    "index": 158,
+    "id": "WOLF",
+    "english": "Wolf",
+    "vietnamese": "chó sói",
+    "japanese": "狼"
   }
 ]
